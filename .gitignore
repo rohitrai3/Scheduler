@@ -18,3 +18,4 @@ Thumbs.db
 .env.local
 local.properties
 secrets.json
+**.cxx/
